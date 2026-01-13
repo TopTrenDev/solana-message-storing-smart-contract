@@ -2,6 +2,10 @@
 
 A minimal smart contract for storing, updating, and reading a string message on Solana (Anchor Framework)
 
+[![Telegram](https://img.shields.io/badge/Telegram-@TopTrenDev_66-black?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/TopTrenDev_66)
+[![Twitter](https://img.shields.io/badge/Twitter-@toptrendev-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/toptrendev)
+[![Discord](https://img.shields.io/badge/Discord-toptrendev-black?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/648385188774019072)
+
 ## Overview
 
 This project demonstrates a simple Solana program that:
@@ -69,3 +73,12 @@ Or
 ```
 anchor test --skip-build --skip-deploy
 ```
+
+## Wallet Transaction References (Devnet)
+
+Track the key on-chain messages for this wallet:
+
+[![Solscan](https://img.shields.io/badge/View_on_Solscan-Initialize_Message-14F195?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/tx/37qbT1i9EobjHakPhYT7PseBm99pqJeJrMc3araZFjasg1RQUrAEdrEPMXRfHKLMGdds7xUkA9jfjjszZf1aEAmu?cluster=devnet)
+
+[![Solscan](https://img.shields.io/badge/View_on_Solscan-Update_Message-14F195?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/tx/4EoT5ywK8qGSJZfZF9yFJVuCZ467dT87LfikRL4a62B296uNh27WxgKrCWQVbPBnQtmDFZMWBYtxY6N3Jrwxjenc?cluster=devnet)
+
